@@ -157,7 +157,7 @@ class SlidableAction extends StatelessWidget {
   final SlidableActionCallback? onPressed;
 
   /// An icon to display above the [label].
-  final Icon? icon;
+  final Widget? icon;
 
   /// The space between [icon] and [label] if both set.
   ///
